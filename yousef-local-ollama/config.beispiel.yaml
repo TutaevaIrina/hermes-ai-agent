@@ -1,0 +1,13 @@
+# Vergleichsvorlage, kein Export der persönlichen Hermes-Konfiguration.
+# Werte bei einer neuen Einrichtung im Modellassistenten bzw. gezielt setzen.
+# Einen vorhandenen config.yaml-Inhalt nicht pauschal damit überschreiben.
+model:
+  provider: custom
+  default: hermes-projekt:latest
+  base_url: http://host.docker.internal:11434/v1
+  api_mode: chat_completions
+agent:
+  max_turns: 8
+  reasoning_effort: "none"
+terminal:
+  backend: local

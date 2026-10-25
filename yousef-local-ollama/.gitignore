@@ -1,0 +1,29 @@
+# Persönliche Konfiguration und Zugangsdaten
+.env
+.env.*
+!.env.example
+config.yaml
+**/config.yaml
+auth.json
+credentials.json
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Laufzeitdaten und vollständige Exporte
+.hermes/
+hermes-data/
+logs/
+sessions/
+memories/
+backups/
+runs/
+*.log
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.sqlite-*
+*.sqlite3-*
+__pycache__/
