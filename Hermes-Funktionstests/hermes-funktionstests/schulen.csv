@@ -1,0 +1,14 @@
+﻿schul_id;schulname;bezirk_id;schulart;traegerschaft;anschrift;schuelerzahl
+T001;Testschule Birke;11;Grundschule;öffentlich;Teststraße 1, 13051 Berlin;320
+T002;Testschule Kastanie;11;Grundschule;öffentlich;Teststraße 2, 13051 Berlin;280
+T003;Testschule Lerche;11;Gymnasium;öffentlich;Teststraße 3, 13051 Berlin;710
+T004;Testschule Ahorn;11;Grundschule;privat;;190
+T005;Testschule Eiche;03;Grundschule;öffentlich;Beispielweg 5, 13187 Berlin;450
+T006;Testschule Linde;03;Gymnasium;öffentlich;Beispielweg 6, 13187 Berlin;860
+T007;Testschule Buche;03;Gymnasium;privat;Beispielweg 7, 13187 Berlin;520
+T008;Testschule Erle;02;Grundschule;öffentlich;Musterweg 8, 10243 Berlin;380
+T009;Testschule Espe;02;Gymnasium;öffentlich;Musterweg 9, 10243 Berlin;
+T010;Testschule Ulme;01;Grundschule;öffentlich;Demoweg 10, 10115 Berlin;410
+T011;Testschule Weide;01;Gymnasium;öffentlich;Demoweg 11, 10115 Berlin;690
+T012;Testschule Fichte;11;Gymnasium;privat;Teststraße 12, 13051 Berlin;430
+T002;Testschule Kastanie;11;Grundschule;öffentlich;Teststraße 2, 13051 Berlin;280
