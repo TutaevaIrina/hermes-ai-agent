@@ -1,0 +1,3 @@
+﻿schul_id;schulname;bezirk_id;schulart;traegerschaft;anschrift;schuelerzahl
+T001;Testschule Birke;11;Grundschule;öffentlich;Teststraße 1, 13051 Berlin;320
+T002;Testschule Kastanie;11;Grundschule;öffentlich;Teststraße 2, 13051 Berlin;280
